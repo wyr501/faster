@@ -165,3 +165,8 @@ You can safely ignore these terminal errors:
 * `Error in REST request` (when using ROS Melodic)
 * `[ERROR] [...]: GazeboRosControlPlugin missing <legacyModeNS> while using DefaultRobotHWSim, defaults to true.` (when using the ground robot)
 * `[ERROR] [...]: No p gain specified for pid.  Namespace: /gazebo_ros_control/pid_gains/front_left_wheel.` (when using the ground robot)
+
+
+
+#YANRAN EDIT
+1.For catkin build python2.7->3.6: https://answers.ros.org/question/326226/importerror-dynamic-module-does-not-define-module-export-function-pyinit__tf2/
